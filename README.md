@@ -1,2 +1,2 @@
 # ImageBed
-PicGo图床
+图床
